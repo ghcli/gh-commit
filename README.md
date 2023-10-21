@@ -128,30 +128,6 @@ Both commands invoke a Git diff, pass the changes to GPT-4, and craft a commit m
 
 ![gh-commit-in-action](https://github.com/ghcli/gh-commit/assets/10250297/8f94d6af-3584-4bfe-a1ba-7e29d891703f)
 
-
-## Contributing 🤝
-
-### How to Contribute 👷‍♂️
-
-1. Fork the repository 🍴.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`) 🌳.
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`) 📝.
-4. Build and execute on command line with `go mod download && go mod tidy && go build -v . && sleep 1 && chmod a+rx ./gh-commit && ./gh-commit` 🏗️.
-5. Push to the branch (`git push origin feature/AmazingFeature`) ⬆️.
-6. Open a pull request 🤲.
-
-### Code of Conduct 📜
-
-Please read the `CODE_OF_CONDUCT.md` for guidelines on community behavior 👥.
-
-### Community 💬
-
-See community discussions, and follow the project board for current and upcoming features 📅.
-
-## License 📄
-
-MIT License. For more information, please refer to the `LICENSE` file in the repo 📑.
-
 ## Acknowledgements 🙏
 
 - Thanks to OpenAI & Azure for providing the models 🌐.
