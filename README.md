@@ -1,5 +1,3 @@
-[![release](https://github.com/ghcli/gh-commit-src/actions/workflows/release.yml/badge.svg)](https://github.com/ghcli/gh-commit-src/actions/workflows/release.yml)
-
 # Commit - Automated Git Commit Messages with LLM 🤖📝
 Artfully create commit messages that reflect the essence of your code changes 🎨🔍. Craftsmanship for your commits 👨‍🎨. Unleash the power of language models to automate your Git commit messages 🌐🤖. With Commit, save time ⏰ and generate meaningful commit messages based on your code changes 📜.
 
