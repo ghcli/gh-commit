@@ -82,7 +82,7 @@ OPENAI_URL=your-openai-api-key-here OPENAI_MODEL=gpt-4 FINE_TUNE_PARAMS='{"tempe
 For an end-to-end installation experience, execute 👇:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ghcli/commit/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ghcli/gh-commit/main/install.sh)
 ```
 
 This comprehensive script accomplishes the following 📋:
