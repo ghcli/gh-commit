@@ -121,12 +121,14 @@ gh commit
 Both commands invoke a Git diff, pass the changes to GPT-4, and craft a commit message based on the model's output 💬🎉.
 
 ### Commit Example
-![ghcommit2](https://github.com/ghcli/gh-commit/assets/10250297/705d6537-1db8-4f1b-be18-f68e130e28b4)
+
+![gh-commit-in-action](https://github.com/ghcli/gh-commit/assets/10250297/e531f7f0-60c3-4856-9651-3d50d773e046)
 
 
 ### Commit Example
 
-![gh-commit-in-action](https://github.com/ghcli/gh-commit/assets/10250297/8f94d6af-3584-4bfe-a1ba-7e29d891703f)
+![ghcommit2](https://github.com/ghcli/gh-commit/assets/10250297/b2cd521d-fa14-4080-b793-31db492bd93c)
+
 
 ## Acknowledgements 🙏
 
