@@ -58,10 +58,19 @@ Before running AutoCommit, it's advisable to set a few environment variables �
 Add these environment variables by appending them to your `.bashrc`, `.zshrc`, or other shell configuration files 📄:
 
 ```bash
+
+#For Models hosted on Azure
 export OPENAI_URL=https://apiendpoint.openai.azure.com
 export OPENAI_MODEL=llm-large
 export OPENAI_API_KEY=your-openai-api-key-here
-export FINE_TUNE_PARAMS='{"temperature": 0.7}' 
+export FINE_TUNE_PARAMS='{"temperature": 0.7}'
+```
+For Models hosted on OpenAI - Get the API Keys from https://platform.openai.com/account/api-keys
+```bash
+export OPENAI_URL=https://api.openai.com/v1/
+export OPENAI_API_KEY=your-openai-api-key-here 
+export OPENAI_MODEL=gpt-4
+
 ```
 
 Or, you can set them inline before running the AutoCommit command 🖱️:
