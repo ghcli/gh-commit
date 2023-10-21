@@ -128,7 +128,7 @@ Both commands invoke a Git diff, pass the changes to GPT-4, and craft a commit m
 
 ### Commit Example
 
-![ghcommit2](https://github.com/ghcli/gh-commit/assets/10250297/6d9c7443-487b-4b57-b789-7fbac8cd7fae)
+![gh-commit-in-action](https://github.com/ghcli/gh-commit/assets/10250297/8f94d6af-3584-4bfe-a1ba-7e29d891703f)
 
 
 ## Contributing 🤝
