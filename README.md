@@ -31,7 +31,7 @@ Fun Fact: Using an AI to write commits and other automations can reduce the risk
 - [Acknowledgements 🙏](#acknowledgements)
 
 ## Features 🌟
-
+<a name="features"></a>
 - **Automated Commit Messages**: Leverages language models to craft meaningful commit messages 🤖💬.
 - **Easy to Install**: One command installs everything you need 🚀.
 - **GitHub CLI Integration**: Seamlessly integrates as a GitHub CLI extension 🔄.
