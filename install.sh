@@ -28,3 +28,4 @@ source ~/.bashrc
 echo "Commit GitHub CLI extension installed successfully!"
 echo "Usage: git auto-commit"
 echo "Usage: gh commit"
+echo "Usage: auto-commit"
