@@ -115,7 +115,13 @@ git auto-commit
 For the same functionality through GitHub CLI, execute 🤖:
 
 ```bash
-gh commit
+gh  commit                    #dry-run View the commit message without commit
+git commit -m "$(gh commit)"  #git commit with the commit message
+```
+
+### Use via Alias
+```bash
+auto-commit
 ```
 
 Both commands invoke a Git diff, pass the changes to GPT-4, and craft a commit message based on the model's output 💬🎉.
