@@ -15,7 +15,7 @@ gh extension install ghcli/gh-commit
 
 # Create Git alias
 git config --global alias.auto-commit '!git commit -m "$(gh commit)" || git commit -a -m "$(gh commit)" && git log HEAD...HEAD~1'
-echo "alias auto-commit='git commit -m \"$(gh commit)\" || git commit -a -m \"$(gh commit)\" && git log HEAD...HEAD~1'" >> ~/.bashrc
+echo "alias auto-commit='git commit -m \"\$(gh commit)\" || git commit -a -m \"\$(gh commit)\" && git log HEAD...HEAD~1'" >> ~/.bashrc
 source ~/.bashrc
 
 echo "Commit GitHub CLI extension installed successfully!"
