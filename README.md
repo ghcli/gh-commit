@@ -45,7 +45,7 @@ Fun Fact: Using an AI to write commits and other automations can reduce the risk
 ## Installation 🛠️
 <a name="installation"></a>
 ### Environment Variables 🌍
-
+<a name="environment-variables"></a>
 Before running AutoCommit, it's advisable to set a few environment variables 🔑:
 
 - `OPENAI_URL`:  Override openai api eg: azure openai (Optional; Default: openai url)
@@ -78,7 +78,7 @@ OPENAI_URL=your-openai-api-key-here OPENAI_MODEL=gpt-4 FINE_TUNE_PARAMS='{"tempe
 ```
 
 ### Complete Install 📦
-
+<a name="complete-install"></a>
 For an end-to-end installation experience, execute 👇:
 
 ```bash
