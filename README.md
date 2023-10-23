@@ -37,13 +37,13 @@ Fun Fact: Using an AI to write commits and other automations can reduce the risk
 - **GitHub CLI Integration**: Seamlessly integrates as a GitHub CLI extension 🔄.
 
 ## Prerequisites 📋
-
+<a name="prerequisites"></a>
 - Go 1.16+ 🟢
 - Git 2.30+ 📦
 - GitHub CLI 2.0+ 🔗
 
 ## Installation 🛠️
-
+<a name="installation"></a>
 ### Environment Variables 🌍
 
 Before running AutoCommit, it's advisable to set a few environment variables 🔑:
@@ -101,7 +101,7 @@ gh extensions upgrade --all
 ```
 
 ## Usage 🖱️
-
+<a name="usage"></a>
 ### Native Git 🌐
 
 To auto-generate a commit message, type ⌨️:
@@ -137,6 +137,6 @@ Both commands invoke a Git diff, pass the changes to GPT-4, and craft a commit m
 
 
 ## Acknowledgements 🙏
-
+<a name="acknowledgements"></a>
 - Thanks to OpenAI & Azure for providing the models 🌐.
 - All the contributors who made this project possible 👨‍👩‍👧‍👦.
