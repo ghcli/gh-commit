@@ -135,6 +135,11 @@ Both commands invoke a Git diff, pass the changes to GPT-4, and craft a commit m
 
 ![ghcommit2](https://github.com/ghcli/gh-commit/assets/10250297/b2cd521d-fa14-4080-b793-31db492bd93c)
 
+### Markdown Example
+
+![ghdemo](https://github.com/ghcli/gh-commit/assets/10250297/512fc92a-34c5-4f60-b4ee-8a2a76f22514)
+
+
 
 ## Acknowledgements 🙏
 <a name="acknowledgements"></a>
