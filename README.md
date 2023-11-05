@@ -64,6 +64,8 @@ export OPENAI_API_KEY=your-openai-api-key-here
 export FINE_TUNE_PARAMS='{"temperature": 0.7}'
 ```
 For Models hosted on OpenAI - Get the API Keys from https://platform.openai.com/account/api-keys
+:footprints: https://medium.sankhe.com/step-by-step-guide-to-obtaining-an-openai-api-token-a1b4cba4d294 :footprints:
+
 ```bash
 export OPENAI_URL=https://api.openai.com/v1/
 export OPENAI_API_KEY=your-openai-api-key-here 
